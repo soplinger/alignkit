@@ -1,0 +1,10 @@
+ACGT this line sits before any header
+>sample_a
+ACGTNNRYacgt
+>sample_b
+ACGT-ACGT U
+>sample_a
+GGGCCCTTTAAA
+>empty_record
+>sample_c
+AC GT*
